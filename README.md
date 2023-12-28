@@ -16,37 +16,21 @@ This project explores the relationship between a country's GDP and life expectan
 
 ## Requirements
 
-- Python 3.x
+- Python 3.12
 - Jupyter Notebooks (optional but recommended)
 
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/yourusername/gdp-life-expectancy-analysis.git`
-2. Install dependencies: `pip install -r requirements.txt`
+2. Install dependencies: `conda env create -f environment.yml`
 
 ## Usage
 
 1. Navigate to the project directory.
-2. Open and run the Jupyter Notebook: `jupyter notebook GDP_Life_Expectancy_Analysis.ipynb`
-
-## Documentation
-
-Detailed documentation can be found in the [Documentation](docs/) directory.
-
-## Examples
-
-Explore the [Examples](examples/) directory for usage examples and sample outputs.
-
-## Contributing
-
-Contributions are welcome! Please check the [Contributing Guidelines](CONTRIBUTING.md) for more details.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+2. Open and run the Jupyter Notebook: `jupyter notebook life_expectancy_gdp.ipynb`
 
 ## Contact
 
-For questions or feedback, contact [Your Name](mailto:your.email@example.com).
+For questions or feedback, contact [Franco Valdés](mailto:franco.v.navarro@gmail.com).
 
 ---
