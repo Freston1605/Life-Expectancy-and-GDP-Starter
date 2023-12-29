@@ -22,7 +22,7 @@ This project explores the relationship between a country's GDP and life expectan
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/yourusername/gdp-life-expectancy-analysis.git`
-2. Install dependencies: `conda env create -f environment.yml`
+2. Install dependencies:  `conda create --name myenv --file requirements.txt`
 
 ## Usage
 
