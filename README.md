@@ -16,7 +16,7 @@ This project explores the relationship between a country's GDP and life expectan
 
 ## Requirements
 
-- Python 3.12
+- Python 3.11
 - Jupyter Notebooks (optional but recommended)
 
 ## Installation
@@ -32,5 +32,3 @@ This project explores the relationship between a country's GDP and life expectan
 ## Contact
 
 For questions or feedback, contact [Franco Valdés](mailto:franco.v.navarro@gmail.com).
-
----
